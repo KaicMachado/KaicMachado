@@ -2,7 +2,7 @@
 
 - 🔭 Ainda não trabalho com Programação
 - 🌱 Atualmente estudo Front-End Origamid.
-- 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
  <div align= "center">
   <a href="https://github.com/KaicMachado">
