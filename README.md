@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Kaic Manzatto Machado👋
 
-- 🔭 Ainda não trabalho com Programação
-- 🌱 Atualmente o meu foco está no curso de Front-End da Origamid.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🔭 Front End Developer
+
 
  <div align= "center">
   <a href="https://github.com/KaicMachado">
