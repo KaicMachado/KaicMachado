@@ -6,7 +6,7 @@
 
  <div align= "center">
   <a href="https://github.com/KaicMachado">
-  <img height="170em" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicMachado)](https://github.com/KaicMachado/github-readme-stats)</>
+  <img height="170em" src='https://github-readme-stats.vercel.app/api?username=KaicMachado&theme=dark&show_icons=true&hide=stars,commits)'/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaicMachado&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
