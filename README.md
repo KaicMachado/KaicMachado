@@ -25,6 +25,6 @@
  <a href= "+5516991171987"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KaicMachado/KaicMachado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
